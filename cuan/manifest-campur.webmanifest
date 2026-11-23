@@ -1,0 +1,46 @@
+{
+ "id": "./",
+ "name": "Toko Halu",
+ "short_name": "Toko Halu",
+ "description": "Toko buat halu. Checkout sepuasnya. Barangnya gak dikirim, uangmu tetap utuh.",
+ "lang": "id",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "orientation": "portrait",
+ "background_color": "#d6384f",
+ "theme_color": "#a3223f",
+ "categories": [
+  "shopping"
+ ],
+ "icons": [
+  {
+   "src": "icon-campur-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any maskable"
+  },
+  {
+   "src": "icon-campur-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any maskable"
+  }
+ ],
+ "screenshots": [
+  {
+   "src": "shot-1.png",
+   "sizes": "540x1170",
+   "type": "image/png",
+   "form_factor": "narrow",
+   "label": "Beranda"
+  },
+  {
+   "src": "shot-2.png",
+   "sizes": "540x1170",
+   "type": "image/png",
+   "form_factor": "narrow",
+   "label": "Pengaturan"
+  }
+ ]
+}
